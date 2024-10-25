@@ -4,7 +4,7 @@
 One day, I was riding in the elevator of my apartment and thought, this elevator system could be replicated by a simple Python project. That spark of curiosity led me to try and replicate an elevator system using Python, applying my current coding knowledge to make a small simulation. This project introduces core programming concepts like conditional statements, loops, lists, and functions while simulating an interactive elevator experience.
 
 ## Features
-• BulletMultiple Floor Selection: Navigate between floors by entering the target floor number.
+• Multiple Floor Selection: Navigate between floors by entering the target floor number.
 
 • Passenger Weight Management: Adds and removes passengers based on their weight, ensuring the total weight doesn’t exceed the elevator's capacity.
 
