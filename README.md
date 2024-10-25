@@ -16,10 +16,14 @@ One day, I was riding in the elevator of my apartment and thought, this elevator
 
 ## How it Works 
 1. The elevator starts at a default floor (Floor 1)
-2. Users can add passengers with specified weights until the max weight or capacity is reached.
-3. The user selects the target floor, and the elevator “moves” floor-by-floor, displaying each floor as it’s passed.
-4. When the elevator reaches a floor, it asks if passengers want to get off or if new passengers want to get on, adjusting the total weight and count each time.
-5. The program exits if a passenger requests floor “0.”
+   
+3. Users can add passengers with specified weights until the max weight or capacity is reached.
+   
+5. The user selects the target floor, and the elevator “moves” floor-by-floor, displaying each floor as it’s passed.
+   
+7. When the elevator reaches a floor, it asks if passengers want to get off or if new passengers want to get on, adjusting the total weight and count each time.
+   
+9. The program exits if a passenger requests floor “0.”
 
 ## Future Enhancements 
 • Adding a GUI for a more interactive experience.
