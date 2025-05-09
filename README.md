@@ -3,6 +3,8 @@
 ## Introduction
 One day, I was riding in the elevator of my apartment and thought, this elevator system could be replicated by a simple Python project. That spark of curiosity led me to try and replicate an elevator system using Python, applying my current coding knowledge to make a small simulation. This project introduces core programming concepts like conditional statements, loops, lists, and functions while simulating an interactive elevator experience.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## Features
 • Multiple Floor Selection: Navigate between floors by entering the target floor number.
 
